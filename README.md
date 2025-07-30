@@ -6,11 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🚀 **Web3 Enthusiast** | Automating blockchain workflows and dApps  
+- Automating blockchain workflows and dApps  
 - 🛠️ Skilled in **Node.js**, **Python**, **Solidity**, and **DevOps** for seamless solutions  
 - 📚 Learning **Rust** and **Kubernetes** to level up my tech game  
 - 🎯 Contributing to Web3 projects, airdrops, and cross-chain innovations  
-- ⚡ Fun fact: I turn coffee into code and chaos into automation!
+
 
 ---
 
