@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00CCFF&center=true&vCenter=true&width=460&lines=Hey+there+%F0%9F%8C%8C+I'm+Ansh;Welcome+to+Ansh7473's+Universe;Building+Web3+%26+Automation+Tools" alt="Crafting Web3 and Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00CCFF&center=true&vCenter=true&width=460&lines=Hey+there+%F0%9F%8C%8C+I'm+Ansh;Welcome+to+Ansh7473's+github;Building+Web3+%26+Automation+Tools" alt="Crafting Web3 and Automation" />
 </p>
 
 ---
