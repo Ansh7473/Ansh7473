@@ -8,15 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh7473&theme=tokyonight&hide_border=true" alt="Ansh7473's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh7473&theme=tokyonight&hide_border=true&background=0D1117&ring=00CCFF&fire=00CCFF" alt="Ansh7473's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ansh7473/Ansh7473/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097561/115834183-5bc6ab80-a447-11eb-9111-c918ee9f1702.gif" width="100%" />
 </p>
 
 ---
@@ -29,6 +25,7 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 - 🎯 Passionate about cross-chain innovations and smart contract security
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Anime%20Girl%20Dancing.gif" width="150px" />
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Walking.gif" width="150px" />
 </p>
 
@@ -61,7 +58,7 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097561/115834183-5bc6ab80-a447-11eb-9111-c918ee9f1702.gif" width="100%" />
 </p>
 
 ---
@@ -85,19 +82,29 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
   *Seamless cross-chain asset transfer solution for Sepolia and Holesky testnets.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097561/115834183-5bc6ab80-a447-11eb-9111-c918ee9f1702.gif" width="100%" />
 </p>
+
+---
+
+### 📈 GitHub Snake Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh7473/Ansh7473/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> [!TIP]
+> **Don't see the snake?** You need to set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your profile repository to generate this SVG!
 
 ---
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh7473&show_icons=true&theme=midnight-purple&count_private=true" alt="Ansh7473's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh7473&layout=compact&theme=midnight-purple" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh7473&show_icons=true&theme=highcontrast&count_private=true&bg_color=0D1117&title_color=00CCFF&text_color=FFFFFF&icon_color=00CCFF" alt="Ansh7473's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh7473&layout=compact&theme=highcontrast&bg_color=0D1117&title_color=00CCFF&text_color=FFFFFF" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh7473&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh7473&theme=react-dark&bg_color=0D1117&color=00CCFF&line=00CCFF&point=FFFFFF" width="100%" />
 </p>
 
 ---
@@ -119,6 +126,8 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansh7473&color=00CCFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime-dancing.gif" width="100px" />
 </p>
 
 
