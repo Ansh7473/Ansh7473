@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh7473&theme=darkhub&no-frame=true&column=7" alt="Ansh7473's Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh7473&theme=tokyonight&hide_border=true" alt="Ansh7473's Streak" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a Web3 developer and automation enthusiast focused on building seamless on-chain experiences.
+I'm a Web3 developer and automation enthusiast focused on building seamless on-chain experiences and AI-driven tools.
 - 🚀 Automating blockchain workflows and dApps  
-- 🛠️ Specializing in **Node.js**, **Python**, **Solidity**, and **DevOps**  
-- 📚 Currently mastering **Rust** and **Kubernetes**  
+- 🛠️ Specializing in **Node.js**, **Python**, **Solidity**, and **AI Integration**  
+- 📚 Currently mastering **Rust** and **Advanced DevOps**  
 - 🎯 Passionate about cross-chain innovations and smart contract security
 
 ---
@@ -47,12 +47,22 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 ---
 
 ### 🚀 Featured Projects
+
+#### 🤖 AI & Automation
+- 🧠 **[Ai-Generalist](https://github.com/Ansh7473/Ai-Generalist)**  
+  *A versatile AI-powered tool designed for general-purpose automation and task management.*
+- 🎬 **[Youtube_Summarizer_Extention](https://github.com/Ansh7473/Youtube_Summarizer_Extention)**  
+  *Chrome extension that leverages AI to provide instant, concise summaries of YouTube videos.*
 - 🛠️ **[UNION-AUTO_BOT](https://github.com/Ansh7473/UNION-AUTO_BOT)**  
-  *A high-performance Node.js bot for automating wallet management and on-chain transactions.*
-- 🌐 **[Cross-Chain Transfer Hub](https://github.com/Ansh7473)**  
-  *Efficient CLI tool facilitating seamless Sepolia-to-Holesky asset transfers.*
+  *High-performance Node.js bot for automating on-chain interactions and wallet management.*
+
+#### ⛓️ Web3 & Logistics
+- 🚛 **[Smart-Bin-Logistics](https://github.com/Ansh7473/Smart-Bin-Logistics)**  
+  *An AI/IoT integrated logistics solution for optimized smart-bin waste management.*
 - 🧬 **[Pharosh-Automation](https://github.com/Ansh7473/Pharosh-Automation-by-Kazuha-Ansh)**  
   *Advanced Sui wallet automation featuring Google OAuth and zkLogin integration.*
+- 🌐 **[Cross-Chain Transfer Hub](https://github.com/Ansh7473)**  
+  *Seamless cross-chain asset transfer solution for Sepolia and Holesky testnets.*
 
 ---
 
@@ -86,4 +96,5 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ansh7473&color=00CCFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
 
