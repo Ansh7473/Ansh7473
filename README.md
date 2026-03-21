@@ -93,7 +93,7 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 </p>
 
 > [!TIP]
-> **Don't see the snake?** You need to set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your profile repository to generate this SVG!
+> **Want the snake Game?** You need to set up the [Platane/snk](https://github.com/Platane/snk) GitHub action in your profile repository to generate this SVG!
 
 ---
 
