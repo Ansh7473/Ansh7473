@@ -1,10 +1,22 @@
 <!-- Animated Typing Title -->
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-39fc-49f5-813c-7833f443599d.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00CCFF&center=true&vCenter=true&width=460&lines=Hey+there+%F0%9F%8C%8C+I'm+Ansh;Welcome+to+Ansh7473's+github;Building+Web3+%26+Automation+Tools" alt="Crafting Web3 and Automation" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh7473&theme=tokyonight&hide_border=true" alt="Ansh7473's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ansh7473/Ansh7473/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
 ---
@@ -15,6 +27,10 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
 - 🛠️ Specializing in **Node.js**, **Python**, **Solidity**, and **AI Integration**  
 - 📚 Currently mastering **Rust** and **Advanced DevOps**  
 - 🎯 Passionate about cross-chain innovations and smart contract security
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Walking.gif" width="150px" />
+</p>
 
 ---
 
@@ -44,6 +60,10 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
@@ -63,6 +83,10 @@ I'm a Web3 developer and automation enthusiast focused on building seamless on-c
   *Advanced Sui wallet automation featuring Google OAuth and zkLogin integration.*
 - 🌐 **[Cross-Chain Transfer Hub](https://github.com/Ansh7473)**  
   *Seamless cross-chain asset transfer solution for Sepolia and Holesky testnets.*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097561/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
