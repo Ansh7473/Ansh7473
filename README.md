@@ -3,51 +3,87 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00CCFF&center=true&vCenter=true&width=460&lines=Hey+there+%F0%9F%8C%8C+I'm+Ansh;Welcome+to+Ansh7473's+github;Building+Web3+%26+Automation+Tools" alt="Crafting Web3 and Automation" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansh7473&theme=darkhub&no-frame=true&column=7" alt="Ansh7473's Trophies" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
-- Automating blockchain workflows and dApps  
-- 🛠️ Skilled in **Node.js**, **Python**, **Solidity**, and **DevOps** for seamless solutions  
-- 📚 Learning **Rust** and **Kubernetes** to level up my tech game  
-- 🎯 Contributing to Web3 projects, airdrops, and cross-chain innovations  
-
+I'm a Web3 developer and automation enthusiast focused on building seamless on-chain experiences.
+- 🚀 Automating blockchain workflows and dApps  
+- 🛠️ Specializing in **Node.js**, **Python**, **Solidity**, and **DevOps**  
+- 📚 Currently mastering **Rust** and **Kubernetes**  
+- 🎯 Passionate about cross-chain innovations and smart contract security
 
 ---
 
 ### 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat-square&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb)
+
+#### 🌐 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### ⛓️ Web3 & Blockchain
+<p align="left">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
+#### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Featured Projects
-- **[UNION-AUTO_BOT](https://github.com/Ansh7473/UNION-AUTO_BOT)**: A Node.js-powered bot for automating Web3 tasks like wallet management and transactions.  
-- **[Cross-Chain Transfer Hub](https://github.com/Ansh7473)**: CLI tool for Sepolia-to-Holesky transfers, built with efficiency in mind.  
-- **[Pharosh-Automation](https://github.com/Ansh7473/Pharosh-Automation-by-Kazuha-Ansh)**: Wallet automation for Sui with Google OAuth and zkLogin integration.
+### 🚀 Featured Projects
+- 🛠️ **[UNION-AUTO_BOT](https://github.com/Ansh7473/UNION-AUTO_BOT)**  
+  *A high-performance Node.js bot for automating wallet management and on-chain transactions.*
+- 🌐 **[Cross-Chain Transfer Hub](https://github.com/Ansh7473)**  
+  *Efficient CLI tool facilitating seamless Sepolia-to-Holesky asset transfers.*
+- 🧬 **[Pharosh-Automation](https://github.com/Ansh7473/Pharosh-Automation-by-Kazuha-Ansh)**  
+  *Advanced Sui wallet automation featuring Google OAuth and zkLogin integration.*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansh7473&show_icons=true&theme=midnight-purple" alt="Ansh7473's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh7473&layout=compact&theme=midnight-purple" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansh7473&show_icons=true&theme=midnight-purple&count_private=true" alt="Ansh7473's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh7473&layout=compact&theme=midnight-purple" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh7473&theme=react-dark" width="100%" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
+<p align="left">
+  <a href="https://github.com/Ansh7473"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/Ansh7473"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/Ansh7473"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Ansh7473"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---
 
-### 💡 What's Next?
-- 🧑‍💻 Mastering **DevOps** with CI/CD pipelines and containerization  
-- 🌍 Building **Rust-based** blockchain tools for performance  
-- 🎉 Creating more automation scripts to simplify Web3 workflows  
+### 💡 Future Roadmap
+- 🏗️ Deep-diving into **Solana Ecosystem** and **Anchor framework**.
+- 🛠️ Building decentralized identity (DID) solutions.
+- 📈 Contributions to high-impact open-source Web3 projects.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansh7473&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ansh7473&color=00CCFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
